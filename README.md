@@ -6,7 +6,7 @@
 
 <br>
 
-> :mag_right: O Dev Link é uma aplicação básica que permite o usuário armazenar os links pessoais. Sendo usado também como portfólio.
+> :mag_right: O Dev Link é uma aplicação básica que permite o usuário armazenar os links pessoais. Sendo assim também pode ser usada como portfólio.
 > <br>
 
 :paperclip: Link da aplicação: https://dev-link-portfolio.vercel.app/
