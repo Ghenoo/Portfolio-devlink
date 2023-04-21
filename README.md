@@ -13,7 +13,7 @@
 
 ## :computer: Funcionalidades
 
-- Exibit listagem dos links iteráveis
+- Exibir listagem dos links iteráveis
 - Adicionar ou remover seu link específico
 
 ## :round_pushpin: Como Usar
