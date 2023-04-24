@@ -46,3 +46,7 @@ a {
 a:hover {
   color: rgb(0, 223, 48);
 }
+
+h6 {
+  font-size: small;
+}
