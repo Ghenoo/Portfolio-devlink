@@ -23,7 +23,7 @@ p {
 }
 
 body {
-  background-image: linear-gradient(to bottom, rgb(37, 77, 187), rgb(56, 99, 219), rgb(64, 95, 182))
+  background-image: linear-gradient(to bottom, rgb(37, 77, 187), rgb(56, 99, 219), rgb(80, 117, 219))
 }
 
 h1,
@@ -48,5 +48,5 @@ a:hover {
 }
 
 h6 {
-  font-size: 25px;
+  font-size: 17px;
 }
