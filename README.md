@@ -20,8 +20,8 @@
 
 <h3>Pré-requisitos</h3>
 
-- [NodeJS](https://github.com/)
-- [Git](https://github.com)
+- [NodeJS](https://nodejs.org/en)
+- [Git](https://git-scm.com/)
 - [npm](https://www.npmjs.com/)
 
 <h3>Clonar</h3>
